@@ -12,9 +12,11 @@ All pages are fully responsive, have a simple nav-bar and a sticky footer (Portf
 **Sample Code**
 
 <!doctype html>
+
 <html lang="en">
   <head>
     <!-- Required meta tags -->
+    
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Bootstrap CSS -->
@@ -28,6 +30,7 @@ All pages are fully responsive, have a simple nav-bar and a sticky footer (Portf
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
         </button>
+      
         <div class="collapse navbar-collapse" id="navbarsExampleDefault">
           <ul class="navbar-nav mr-auto">
             <li class="nav-item active">
