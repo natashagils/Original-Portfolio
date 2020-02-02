@@ -1,6 +1,16 @@
-Synopsis
+**Synopsis**
 
-At the top of the file there should be a short introduction and/ or overview that explains what the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
+This is a simple minimilistic portfolio website created using HTML 5 and Bootstrap 4.0 components. The portfolio has three pages: 
+
+* **Home page** with a two column layout and a CTA for access to the portfolio itself. Page is index.html
+* **Portfolio page**, with a Jumbotron and a 4x3 grid with thumbnails of photographs. Each thumbnail redirects to where the images are actually hosted (on my personal Facebook page). Thumbnails in the first two rows are 260px x 200px and images in the last row are 260px x 290px. Page is portfolio.html. 
+* **Contact page**, with a simple contact form allowing people to contact me. 
+
+All pages are fully responsive, have a simple nav-bar and a sticky footer (Portfolio and Contact page have a footer with social links, email address and an address). 
+
+
+
+
 
 #Code Example#
 
