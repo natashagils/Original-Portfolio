@@ -17,22 +17,17 @@ All pages are fully responsive, have a simple nav-bar and a sticky footer (Portf
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-
     <title>Hello, world!</title>
-  </head>
-  <body>
-
+    </head>
+    <body>
       <!-- Nav bar -->
-
     <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
         <a class="navbar-brand" href="index.html">Natasha Gilani</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
+        <span class="navbar-toggler-icon"></span>
         </button>
-  
         <div class="collapse navbar-collapse" id="navbarsExampleDefault">
           <ul class="navbar-nav mr-auto">
             <li class="nav-item active">
@@ -43,8 +38,7 @@ All pages are fully responsive, have a simple nav-bar and a sticky footer (Portf
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="contact.html">Contact</a>
-              </li> 
-           
+              </li>         
           </ul>
           <form class="form-inline my-2 my-lg-0">
             <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
@@ -52,7 +46,6 @@ All pages are fully responsive, have a simple nav-bar and a sticky footer (Portf
           </form>
         </div>
       </nav>
-
   <!-- End Nav bar -->
 
 
