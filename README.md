@@ -24,9 +24,10 @@ All pages are fully responsive, have a simple nav-bar and a sticky footer (Portf
 
 
 
+<img width="800" alt="Contact-screenshot" src="https://user-images.githubusercontent.com/56641651/73613584-6266ce80-45c5-11ea-88ae-f7ccdb853986.png">
 
 
-
+**Contact page screenshot** 
 
 
 
