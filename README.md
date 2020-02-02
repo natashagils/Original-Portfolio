@@ -17,9 +17,10 @@ All pages are fully responsive, have a simple nav-bar and a sticky footer (Portf
 **Home page screenshot** 
 
 
+<img width="1007" alt="Portfolio-screenshot" src="https://user-images.githubusercontent.com/56641651/73613565-1451cb00-45c5-11ea-9be4-4c32b2bf80b7.png">
 
 
-
+**Portfolio page screenshot** 
 
 
 
