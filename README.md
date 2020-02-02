@@ -8,7 +8,7 @@ This is a simple minimilistic portfolio website created using HTML 5 and Bootstr
 
 All pages are fully responsive, have a simple nav-bar and a sticky footer (Portfolio and Contact page have a footer with social links, email address and an address). 
 
-https://github.com/natashagils/Portfolio/blob/master/Home-screenshot.png
+https://github.com/natashagils/Portfolio/blob/master/Home-screenshot.png?raw=true
 
 
 
