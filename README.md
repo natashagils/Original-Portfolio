@@ -9,14 +9,13 @@ This is a simple minimilistic portfolio website created using HTML 5 and Bootstr
 All pages are fully responsive, have a simple nav-bar and a sticky footer (Portfolio and Contact page have a footer with social links, email address and an address). 
 
 
-#Code Example#
-
+**Sample Code**
 Show what the library does as concisely as possible, developers should be able to figure out how your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
 
 
 
 **Installation**
-To use this portfolio, log into your GitHub account (if you don’t have a GitHub user profile, create one at https://github.com/join) and open this link in your browser: https://natashagils.github.io/Portfolio. Then click on the "Fork" button at the top right corner and wait until the repo is forked. 
+To use this portfolio, log into your GitHub account (if you don’t have a GitHub user profile, create one at https://github.com/join) and open this link in your browser: https://github.com/natashagils/Portfolio. Then click on the "Fork" button at the top right corner and wait until the repo is forked. 
 
 **License**
 This website belongs to Natasha Gilani. All Rights Reserved. 
